@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sejwalkanishka
-- My Name is Kanishka Sejwal
+- * My Name is Kanishka Sejwal
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Programming Projects
