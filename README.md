@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sejwalkanishka
 - * My Name is Kanishka Sejwal
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, AI & ML , GenAI
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Programming Projects
 - 📫 How to reach me sejwalkanishka21@gmail.com
