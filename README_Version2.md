@@ -24,7 +24,9 @@ Aspiring to become a successful business analyst by transforming data into actio
 
 > My goal is to become a successful business analyst, helping organizations make data-driven decisions.
 * I’m interested in Data Analytics, AI & ML , GenAI
+  
 *💞️ I’m looking to collaborate on Programming Projects
+
 *📫 How to reach me sejwalkanishka21@gmail.com
 
 ---
